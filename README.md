@@ -4,7 +4,7 @@
   
  <br/>
   
-####  :clipboard: Languages and Editors
+####  :clipboard: Experienced Languages and Editors
   
  <br/>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
@@ -26,8 +26,24 @@
   <br/>
   
   
-  ####  📝: KT Aivle School 2기 AI 트랙 수료 (2022.07.26 ~ 2023.01.19)
-  ####  📝: SSAFY 9기 (2023.01.04 ~ )
-<br/><br/>
-  ![jun Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2017tae&layout=compact&theme=tokyonight)<br/>
+  ####  🏅: KT Aivle School 2기 AI 트랙 수료 (2022.07.26 ~ 2023.01.19)
+  ####  📝: SSAFY 9기 (2023.01.04 ~ )\
+  
+<br/>
+  
+  #### 📊 Most Used Languages
+  <br/>
+  
+![jun Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2017tae&layout=compact&theme=tokyonight)
+  </br>
+  #### 🤵 Github stats
+  </br>
+  
 ![jun's github stats](https://github-readme-stats.vercel.app/api?username=2017tae&show_icons=true&theme=tokyonight)
+<br/>
+  
+   
+  ####  🏅 백준 랭크
+<br/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjm123)](https://solved.ac/tjm123)
