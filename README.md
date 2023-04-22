@@ -2,7 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B3FFAA,100:FBFFF2&height=150&section=header&text=2017tae&fontColor=005C00&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
- <br/>
+
+---
   
 ####  :clipboard: Experienced Languages and Editors
   
@@ -17,31 +18,36 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  
+---
 
-   <br/>
-   <br/>
  
 #### :pencil2: Study log
- 
+  
   <br/>
   
-  
   ####  🏅: KT Aivle School 2기 AI 트랙 수료 (2022.07.26 ~ 2023.01.19)
-  ####  📝: SSAFY 9기 (2023.01.04 ~ )\
+  ####  📝: SSAFY 9기 (2023.01.04 ~ )
   
-<br/>
+
+  
+  ---
   
   #### 📊 Most Used Languages
   <br/>
   
 ![jun Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2017tae&layout=compact&theme=tokyonight)
   </br>
+  
+  ---
+  
   #### 🤵 Github stats
   </br>
   
 ![jun's github stats](https://github-readme-stats.vercel.app/api?username=2017tae&show_icons=true&theme=tokyonight)
 <br/>
-  
+
+  ---
    
   ####  🏅 백준 랭크
 <br/>
