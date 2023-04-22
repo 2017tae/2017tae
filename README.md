@@ -27,8 +27,9 @@
   <br/>
   
   
-  ####  :wave: Welcome my github profile !
-  ####  :wave: Welcome my github profile !
+  ####  📝: KT Aivle School 2기 AI 트랙 수료 (2022.07.26 ~ 2023.01.19)
+  ####  📝: SSAFY 9기 (2023.01.04 ~ )
 <br/><br/>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2017tae&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2017tae&layout=compact&theme=tokyonight)
+![jun's github stats](https://github-readme-stats.vercel.app/api?username=2017tae&show_icons=true&theme=tokyonight)
+  <br/>
+![jun Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2017tae&layout=compact&theme=tokyonight)
