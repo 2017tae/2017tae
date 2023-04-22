@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=2017tae&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:B3FFAA,100:FBFFF2&height=150&section=header&text=2017tae&fontColor=005C00&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
  <br/>
  <br/>
@@ -25,6 +25,10 @@
 #### :pencil2: Study log
  
   <br/>
-
+  
+  
+  ####  :wave: Welcome my github profile !
+  ####  :wave: Welcome my github profile !
+<br/><br/>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2017tae&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2017tae&layout=compact&theme=tokyonight)
