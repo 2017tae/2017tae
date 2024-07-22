@@ -69,7 +69,7 @@
 
   ---
    
-  ####  🏅 백준 랭크　（韓国
+  ####  🏅 백준 랭크　（韓国の問題を解くウェブサイト）
 <br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjm123)](https://solved.ac/tjm123)
